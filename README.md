@@ -4,7 +4,7 @@
 
 This repository contains the machine learning pipeline and strategic executive report developed to detect fraudulent and deceptive reviews on Yelp. The core objective was to build a predictive model that protects platform integrity and ensures a trustworthy user experience.
 
-![Dashboard/Presentation Preview](assets/yelp_presentation_preview.jpg)
+![Dashboard/Presentation Preview](asset_cover.png)
 
 ## 🎯 Business Impact & Product Strategy
 Fake reviews erode user trust and degrade the core value proposition of review-based platforms. This project moved beyond simple accuracy metrics to focus on actionable Trust & Safety interventions.
